@@ -1,0 +1,1 @@
+30 14 * * * * /home/de11an/mrve/project/main.sh >> /home/de11an/mrve/main.txt
